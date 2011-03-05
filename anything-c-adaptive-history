@@ -1,0 +1,3 @@
+;; -*- mode: emacs-lisp -*-
+;; History entries used for anything adaptive display.
+(setq anything-c-adaptive-history (quote ((command ("strokes-load-user-strokes" ("user" . 1)) ("list-load-path-shadows" ("path" . 1)) ("ad-Orig-shell-command" ("shell" . 1)) ("clipboard-kill-region" ("cli" . 1)) ("markdown-mode" ("markdow" . 1) ("markdown" . 3)) ("Buffer-menu-backup-unmark" ("mark" . 1)) ("ad-Orig-anything-exit-minibuffer" ("any" . 1)) ("sql-db2" ("sql" . 1)) ("comint-write-output" ("output" . 2)) ("frame-configuration-to-register" ("confi" . 1)) ("php-complete-function" ("php-comp" . 1)) \.\.\.))))

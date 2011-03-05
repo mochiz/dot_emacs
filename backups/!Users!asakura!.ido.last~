@@ -1,0 +1,267 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/" . "Users/")
+ ("/Users/asakura/Dropbox/Sites/configuration/" . ".emacs.d.old/")
+ ("/Users/asakura/Dropbox/Sites/" . "configuration/")
+ ("/Users/asakura/Dropbox/" . "Sites/")
+ ("/Users/asakura/Sites/rails3/project_manager/app/" . "controllers/")
+ ("/Users/asakura/Sites/rails3/project_manager/" . "app/")
+ ("/Users/asakura/Sites/rails3/" . "project_manager/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/ShutsuganCustomize/" . "config/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/lib/" . "CVSPayment/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/modules/payment/" . "actions/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/modules/" . "payment/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/" . "modules/")
+ ("/Users/asakura/.emacs.d/" . "topfunky/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/framework/" . "css/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/kodoguru/" . "css/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/" . "framework/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/" . "bundles/")
+ ("/Users/asakura/Sites/test/" . "iPhone/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/Resources/" . "web/")
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/mobile/" . "actions/")
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/" . "mobile/")
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/" . "modules/")
+ ("/Users/asakura/Sites/CVSPayment/web_int/" . "shiharai/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/mobile/templates/" . ".svn/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/mobile/" . "templates/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/" . "mobile/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/" . "modules/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/" . "FamiPort/")
+ ("/Users/asakura/Sites/CVSPaymentFeature/" . "apps/")
+ ("/Users/asakura/Sites/CVSPayment/" . "apps/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/" . "Resources/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/" . "KodoguruBundle/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/" . "Application/")
+ ("/Users/asakura/Sites/Symfony2/sandbox/" . "web/")
+ ("/Users/asakura/Sites/Symfony2/" . "sandbox/")
+ ("/User Guides and Information/" . "Apple Hardware Test Read Me.app/")
+ ("/Users/" . "asakura/")
+ ("/Users/asakura/Sites/emacs-workshop/" . "code/")
+ ("/Users/asakura/Sites/" . "rails3/")
+ ("/Users/asakura/" . "emacs-starter-kit/")
+ ("/Users/asakura/.emacs.d/elisp/" . "ruby_koans/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/asakura/.emacs.d/"
+ "/Users/asakura/emacs-starter-kit/"
+ "/Users/asakura/Dropbox/Sites/configuration/.emacs.d.old/"
+ "/Users/asakura/Dropbox/Sites/configuration/.emacs.sakito.d/"
+ "/Users/asakura/"
+ "/Users/asakura/Sites/rails3/"
+ "/Users/asakura/.emacs.d/topfunky/"
+ "/Users/asakura/.emacs.d/vendor/"
+ "/Users/asakura/Sites/rails3/project_manager/app/controllers/"
+ "~/.emacs.d/"
+ "/Users/asakura/Sites/rails3/project_manager/"
+ "/Users/asakura/Sites/CVSPaymentFeature/apps/ShutsuganCustomize/config/"
+ "/Users/asakura/Sites/CVSPaymentFeature/lib/"
+ "/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/modules/payment/actions/"
+ "/Users/asakura/Sites/CVSPaymentFeature/"
+ "/Users/asakura/Sites/CVSPaymentFeature/lib/Certification/"
+ "/Users/asakura/.emacs.d/site-start.d/"
+ "/Users/asakura/Sites/test/iPhone/ch02/"
+ "/Users/asakura/Sites/test/iPhone/"
+ "/Users/asakura/Sites/test/"
+ "/Users/asakura/Sites/Symfony2/sandbox/web/bundles/kodoguru/css/"
+ "/Users/asakura/Sites/"
+ "/Users/asakura/Sites/Symfony2/"
+ "/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/Controller/"
+ "/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/mobile/actions/"
+ "/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/mobile/templates/"
+ "/Users/asakura/Sites/CVSPayment/web_int/shiharai/"
+ "/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/"
+ "/Users/asakura/Sites/Symfony2/sandbox/"
+ "/Users/asakura/Sites/facebook/"
+ "/Users/asakura/Sites/emacs-workshop/"
+ "/Users/asakura/.emacs.d/elisp/ruby_koans/koans/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "mochiz-mac.local.el"
+ "loaddefs.el"
+ "d"
+ "topfunky.el"
+ "xcode.el"
+ "peepopen.el"
+ "application_controller.rb"
+ "COPYING"
+ "GPATH"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/asakura/.emacs.d/" (19702 34415) "vendor/" "topfunky.el" "topfunky/" "starter-kit-ruby.el" "starter-kit-registers.el" "starter-kit-misc.el" "starter-kit-lisp.el" "starter-kit-js.el" "starter-kit-eshell.el" "starter-kit-elpa.el" "starter-kit-defuns.el" "starter-kit-bindings.el" "README.markdown" "places" "package.el" "octo.local.el" "mochiz-mac.local.el" "loaddefs.el" "init.el~" "init.el" "elpa-to-submit/" "elpa/" "custom.el" "COPYING" "book.local.el~" "book.local.el" "backups/" "auto-save-list/" ".gitignore" ".git/" ".#mochiz-mac.local.el" "#mochiz-mac.local.el#" "../" "./")
+
+ ("/Users/asakura/" (19702 34340) "typescript.txt" "typescript" "tmp/" "static_contents/" "Sites/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "emacs-starter-kit-topfunky/" "emacs-starter-kit/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bin/" "Application/" ".zshrc" ".zshenv" ".zsh/" ".zcompdump.mochiz-mac.local.8727" ".zcompdump" ".Xcode/" ".Xauthority" ".vimperatorrc.js" ".vimperatorrc" ".vimperator/" ".viminfo" ".vim/" ".Trash/" ".tmp.bmp" ".subversion/" ".ssh/" ".sqsh_readline" ".sqlite_history" ".screenrc" ".screen/" ".rvm/" ".rnd" ".recentf" ".php_history" ".pearrc" ".mysql_history" ".macports/" ".lesshst" ".irbrc" ".irb_history" ".ido.last~" ".ido.last" ".hudson/" ".howm-keys" ".howm-history" ".heroku/" ".gitconfig" ".gem/" ".fontconfig/" ".eshell/" ".emacs.d/" ".emacs-places" ".dvdcss/" ".DS_Store" ".dropbox/" ".CFUserTextEncoding" "../" "./")
+
+ ("~/.emacs.d/" (19702 33792) "vendor/" "topfunky.el" "topfunky/" "starter-kit-ruby.el" "starter-kit-registers.el" "starter-kit-misc.el" "starter-kit-lisp.el" "starter-kit-js.el" "starter-kit-eshell.el" "starter-kit-elpa.el" "starter-kit-defuns.el" "starter-kit-bindings.el" "README.markdown" "places" "package.el" "octo.local.el" "loaddefs.el" "init.el~" "init.el" "elpa-to-submit/" "elpa/" "custom.el" "COPYING" "book.local.el~" "book.local.el" "backups/" "auto-save-list/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/project_manager/app/controllers/" (19701 9095) "riders_controller.rb" "rider_controller.rb" "people_controller.rb" "application_controller.rb" "#application_controller.rb#" "../" "./")
+
+ ("/Users/asakura/.emacs.d/vendor/" (19701 9095) "yasnippet.el/" "xcode.el" "whitespace.el" "unbound.el" "textmate.el/" "textile-mode.el" "sass-mode.el" "ruby-complexity/" "rspec-mode/" "rinari/" "pycomplexity/" "peepopen.el~" "peepopen.el" "objj-mode.el" "objc-c-mode.el" "markdown-mode.el" "line-num.el" "jump.el/" "haml-mode.el" "gist.el" "cucumber/" "color-theme/" "applescript-mode.el" "../" "./")
+
+ ("/Users/asakura/.emacs.d/topfunky/" (19702 33616) "xcode.el" "topfunky.el" "theme.el" "textmate-ext.el" "textile.el" "sinatra.el" "rinari.el" "python.el" "plain-text.el" "org.el" "meta.el" "markdown.el" "keyboard.el" "js.el" "haml.el" "cucumber.el" "applescript.el" "../" "./")
+
+ ("/Users/asakura/Dropbox/Sites/configuration/.emacs.sakito.d/" (19702 33664) "var/" "site-start.d/" "share/" "session" "README" "rc.d/" "private/" "local-lisp/" "lisp/" "init.el" "etc/" "dist/" "COPYING" "bin/" "auto-save-list/" "anything-c-adaptive-history" "ac-comphist.dat" ".hgignore" ".hg_archival.txt" "../" "./")
+
+ ("/Users/asakura/Dropbox/Sites/configuration/.emacs.d.old/" (19653 30892) "session" "init.elc" "init.el" "elisp/" "auto-save-list/" "anything-c-adaptive-history" "ac-comphist.dat" "../" "./")
+
+ ("/Users/asakura/Dropbox/Sites/configuration/" (19636 27773) "port_installed_20100728" "php/" "emacs_backup/" ".zsh/" ".vimperator/" ".screenrc" ".emacs23.d/" ".emacs.sakito.d/" ".emacs.d.old/" ".emacs.d/" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Dropbox/Sites/" (19639 2849) "work_tmp/" "test.php" "selenium-test/" "search_files/" "search.html" "redmineTaskFactory.class.php" "php/" "mochiz_tools/" "markdown/" "jasmine-standalone-1.0.0.rc1/" "issues.php" "hokudai/" "configuration/" "ATT00001.htm" ".vimperator.bak/" ".screenrc" ".emacs.d.bak.20101014/" ".emacs.d.bak/" ".emacs.d/" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Dropbox/" (19696 58129) "Sites/" "Public/" "Photos/" "Music/" "labs/" "Icon
+" "Document/" "20101014_留意事項同意画面用パラメータの走り書き.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/emacs-starter-kit/" (19697 63600) "TODO" "starter-kit-ruby.el" "starter-kit-registers.el" "starter-kit-misc.el" "starter-kit-lisp.el" "starter-kit-js.el" "starter-kit-eshell.el" "starter-kit-elpa.el" "starter-kit-defuns.el" "starter-kit-bindings.el" "session" "README.markdown" "places" "package.el" "loaddefs.el" "init.el" "elpa-to-submit/" "elpa/" "COPYING" "backups/" "auto-save-list/" "anything-c-adaptive-history" "ac-comphist.dat" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/" (19702 32965) "project_manager/" "depot/" ".git/" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/depot/" (19702 32965) "vendor/" "tmp/" "test/" "script/" "README" "Rakefile" "public/" "log/" "lib/" "Gemfile" "doc/" "db/" "config.ru" "config/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/asakura/.emacs.d/vendor/color-theme/themes/" (19698 36269) "color-theme-library.elc" "color-theme-library.el" "color-theme-example.elc" "color-theme-example.el" "../" "./")
+
+ ("/Users/asakura/.emacs.d/vendor/textmate.el/" (19698 36269) "textmate.el" "README.markdown" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/project_manager/app/models/" (19688 7429) "riders.rb" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/lib/Certification/" (19685 18410) "KenteiPeerMock.class.php" "KenteiMock.class.php" "CertificationSession.class.php" "CertificationCommon.class.php" "CertificationApplicationMailForMobile.class.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/" (19681 25541) "web_www/" "web_manager/" "web_int/" "web_gateway/" "web/" "test/" "symfony.php" "symfony" "setup/" "scratch" "plugins/" "log/" "lib/" "hobbit/" "GTAGS" "GSYMS" "GRTAGS" "GPATH" "doc/" "data/" "config/" "cache/" "batch/" "apps/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/lib/" (19685 18410) "ZipCodeReplace.php" "ZipCodeImport.class.php" "YozemiWellnetPaymentProcedure.class.php" "YozemiWellnetApplicationMailForPc.class.php" "YozemiWellnetApplicationMailForMobile.class.php" "YozemiPaymentMailForPc.class.php" "YozemiPaymentMailForMobile.class.php" "YozemiNicosPaymentProcedure.class.php" "YozemiGroupNumber.class.php" "YozemiFinalReportSummary.class.php" "YozemiExamYear.class.php" "YozemiExamNumber.class.php" "YozemiExamKey.class.php" "YozemiExamCode.class.php" "YozemiExamClass.class.php" "YozemiCheckDigit.class.php" "YozemiApplicationManagementStatementCreator.class.php" "YozemiApplicationMailForPc.class.php" "YozemiApplicationMailForMobile.class.php" "YozemiApplicationGroupStatementCreator.class.php" "YozemiApplicationFinancialStatementCreator.class.php" "YozemiApplicationFinalReportStatementCreator.class.php" "YozemiApplicationFinalReportCsvCreator.class.php" "WellnetYoyakuSyunoBarCodeResponse.class.php" "WellnetYoyakuSyunoBarCodeRequest.class.php" "WellnetYoyakuSyunoBarCodeNuSoapClient.class.php" "WellnetYoyakuSyunoBarCodeMockClient.class.php" "WellnetYoyakuSyunoBarCodeCreatingRequest.class.php" "WellnetYoyakuSyunoBarCodeClientFactory.class.php" "WellnetYoyakuSyunoBarCodeClient.interface.php" "WellnetPaymentProcedure.interface.php" "WellnetConfigWithLocationFactory.class.php" "WellnetConfigForTestWithLocation.class.php" "WellnetConfigForTest.class.php" "WellnetConfigForProductionWithLocation.class.php" "WellnetConfigForProduction.class.php" "WellnetConfigFactory.class.php" "WellnetConfig.interface.php" "WebServiceUniversityPayment.class.php" "WebServiceUniversityApplicationclass.php" "WebServiceClient.class.php" "WebServiceCertification.class.php" "WebServiceActions.class.php" "VirtualSystemClock.class.php" "validator/" "ValidateShiftJisString.class.php" "ValidateMultibyteString.class.php" "ValidateKatakanaString.class.php" "UniversityPaymentSession.class.php" "UniversityPaymentApplicationFinalReportStatementCreator.class.php" "UniversityPaymentApplicationFinalReportCsvCreator.class.php" "UniversityManagerQuickReportUpdater.class.php" "UniversityManagerPaymentCsvForRyuka.php" "UniversityManagerPaymentCsvForKonanU.php" "UniversityManagerPaymentCsvForDefault.class.php" "UniversityManagerPaymentCsvFactory.class.php" "UniversityManagerPaymentCsv.interface.php" "UniversityManagerCurrentDBUpdater.class.php" "UniversityManagerApplicationCsvForDefault.class.php" "UniversityManagerApplicationCsvFactory.class.php" "UniversityManager_PaymentCanceler.class.php" "UniversityFinalReportSummary.class.php" "UniversityApplicationApplicationFinalReportStatementCreator.class.php" "UniversityApplicationApplicationFinalReportCsvCreator.class.php" "test/" "TeachersLicenseWellnetPaymentProcedure.class.php" "TeachersLicensePdfUpdater.class.php" "TeachersLicenseNicosPaymentProcedure.class.php" "TeacherPaymentMailForNotredamePc.class.php" "TeacherPaymentMailForKyotowuPc.class.php" "TeacherPaymentMailForKurumePc.class.php" "TeacherPaymentMailForKurumeMobile.class.php" "TeacherPaymentMailForDiscoPc.class.php" "TeacherApplicationMailForNotredamePc.class.php" "TeacherApplicationMailForKyotowuPc.class.php" "TeacherApplicationMailForKurumePc.class.php" "TeacherApplicationMailForKurumeMobile.class.php" "TeacherApplicationMailForDiscoPc.class.php" "tcpdf/" "SystemClockManager.class.php" "SystemClock.interface.php" "symfony/" "swiftmailerExtends/" "staticContents/" "shutsuganValidator/" "ShutsuganStandardWellnetPaymentProcedure.class.php" "ShutsuganStandardUniversityApplicationOptionImport.class.php" "ShutsuganStandardUniversityApplicationLogoImport.class.php" "ShutsuganStandardUniversityApplicationExamStateFeeImport.class.php" "ShutsuganStandardSession.class.php" "ShutsuganStandardPaymentMailForPc.class.php" "ShutsuganStandardPaymentMailForMobile.class.php" "ShutsuganStandardApplicationMailForPc.class.php" "ShutsuganStandardApplicationMailForMobile.class.php" "ShutsuganPasswordImport.php" "ShutsuganOsakauNicosPaymentProcedure.class.php" "ShutsuganOsaka_u_G30_2011NicosPaymentProcedure.class.php" "ShutsuganInputPatternImport.php" "ShutsuganInputItemImport.php" "ShutsuganImportBase.class.php" "ShutsuganHokudaiNicosPaymentProcedure.class.php" "ShutsuganHandaiNicosPaymentProcedure.class.php" "ShutsuganExamStateImport.php" "ShutsuganDiscoNicosPaymentProcedure.class.php" "ShutsuganCustomizeWellnetPaymentProcedure.class.php" "ShutsuganCustomizeSession.class.php" "ShutsuganCustomizeMypageSession.class.php" "ShutsuganCustomize_PaymentCanceler.class.php" "shutsuganCustomize/" "ShutsuganCommonAction.class.php" "ShutsuganAttentionImport.php" "ShiharaiWellnetPaymentProcedure.class.php" "ShiharaiUniversityLogoImport.class.php" "ShiharaiUniversityInformationDelete.class.php" "ShiharaiUniversityExamStateFeeImport.class.php" "ShiharaiUniversityExamStateFeeAdditionalImport.class.php" "ShiharaiUniversityExamInformationDelete.class.php" "ShiharaiPaymentMailForPc.class.php" "ShiharaiPaymentMailForMobile.class.php" "ShiharaiApplicationMailForPc.class.php" "ShiharaiApplicationMailForMobile.class.php" "SessionStorage.class.php" "SeleniumTestCase.class.php" "RuntimeEnvironment.class.php" "RevenuStamp.class.php" "RealSystemClock.class.php" "pdflib/" "pdf/" "PaymentMailFactory.class.php" "PaymentMail.interface.php" "PaymentInformations.class.php" "nusoap/" "NullLogger.class.php" "NicosPaymentProcedure.interface.php" "NicosEcResponse.interface.php" "NicosEcRequest.interface.php" "NicosEcPaymentException.class.php" "NicosEcMaintainanceException.class.php" "NicosEcJoinConfig.class.php" "NicosEcCommunicationException.class.php" "NicosEcClient.interface.php" "NicosEcCardInfoValidator.class.php" "NicosEcCardInfo.class.php" "NicosEcAuthorizationResponse.class.php" "NicosEcAuthorizationRequest.class.php" "NicosEcAuthorizationConfigForRehearsal.class.php" "NicosEcAuthorizationConfigForProduction02.class.php" "NicosEcAuthorizationConfigForProduction01.class.php" "NicosEcAuthorizationConfigForDevelopment.class.php" "NicosEcAuthorizationConfigFactory.class.php" "NicosEcAuthorizationConfig.class.php" "NicosEcAuthorizationClientForMock.class.php" "NicosEcAuthorizationClientForB2bc.class.php" "NicosEcAuthorizationClientFactory.class.php" "nicosb2bc/" "model/" "ManagerUser.class.php" "ManagementSecurityUser.class.php" "MailDeliverer.class.php" "MailAddress.class.php" "Logger.class.php" "Loggable.interface.php" "KaramailResponder.class.php" "KanjiKenteiPaymentErrorData.class.php" "KanjiKenteiPaymentData.class.php" "JapaneseEraConverter.class.php" "HighSchoolImport.class.php" "helper/" "FtpConnection.class.php" "foundationValidator/" "FoundationSession.class.php" "FoundationPaymentMailForPc.class.php" "FoundationPaymentMailForMobile.class.php" "FoundationManagerApplicationCsvForDefault.class.php" "FoundationManagerApplicationCsv.interface.php" "FoundationManager_PaymentCanceler.class.php" "FoundationBaseActions.class.php" "FoundationApplicationMailForPc.class.php" "FoundationApplicationMailForMobile.class.php" "FoundationApplicationFinalReportStatementCreator.class.php" "FoundationApplicationFinalReportCsvCreator.class.php" "ForeignStudentApplicationFinalReportStatementCreator.class.php" "ForeignStudentApplicationFinalReportCsvCreator.class.php" "FinalReportCsvCreatable.interface.php" "filter/" "FileImportBase.class.php" "FamiPort_PaymentData.class.php" "FamilyMart_PaymentData_Parser.class.php" "FamilyMart_PaymentData_DataRecord.class.php" "emulation/" "CVSPaymentWebService.php" "CVSPaymentWebRequest.class.php" "CVSPaymentUser.class.php" "CVSPaymentToChallengeNet.php" "CVSPaymentSessionFactory.class.php" "CVSPaymentSession.class.php" "CVSPaymentObject.class.php" "CVSPaymentOberlinWebService.php" "CVSPaymentNextDbTablesDelete.class.php" "CVSPaymentMasterDbTablesDelete.class.php" "CVSPaymentManagementDbTablesDelete.class.php" "CVSPaymentMail.class.php" "CVSPaymentCurrentDbTablesDelete.class.php" "CVSPaymentCommon.php" "CVSPaymentActions.class.php" "CVSPayment/" "CreolePreparedStatementCreatable.interface.php" "CommonNicosPaymentProcedure.class.php" "chinapay/" "Challengenet/" "CertificationFinalReportSummary.class.php" "CertificationApplicationFinalReportStatementCreator.class.php" "CertificationApplicationFinalReportCsvCreator.class.php" "Certification/" "BaseLogic.class.php" "AttendableLimit.class.php" "ApplicationQuickReportUpdater.class.php" "ApplicationPaymentCanceler.class.php" "ApplicationMailFactory.class.php" "ApplicationMail.interface.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/ShutsuganCustomize/config/" (19652 20566) "view.yml" "settings.yml" "security.yml" "routing.yml" "i18n.yml" "filters.yml" "factories.yml" "databases.yml" "config.php" "cache.yml" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/project_manager/app/views/" (19688 3774) "riders/" "rider/" "people/" "layouts/" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/project_manager/app/views/layouts/" (19688 4177) "application.html.erb" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/project_manager/app/" (19677 33847) "views/" "models/" "mailers/" "helpers/" "controllers/" "../" "./")
+
+ ("/Users/asakura/Sites/rails3/project_manager/" (19696 44967) "vendor/" "tmp/" "test.txt" "test/" "script/" "README" "Rakefile" "public/" "log/" "lib/" "GTAGS" "GSYMS" "GRTAGS" "GPATH" "Gemfile.lock" "Gemfile" "doc/" "db/" "config.ru" "config/" "app/" ".irbrc" ".gitignore" ".git/" ".bundle/" "../" "./")
+
+ ("/Users/asakura/Sites/" (19685 24883) "todo_project/" "tickets/" "test/" "Symfony2/" "svnlogs" "sort" "sfprojects/" "rails3/" "prj/" "PHPMatsuri/" "patch/" "mochiz_tools/" "labs/" "jasmine-standalone-1.0.0.rc1/" "jasmine/" "iPhoneDev/" "index.php" "index.html" "images/" "heroku/" "github/" "gist-266984/" "facebook/" "emacs-workshop/" "CVSPaymentFeature/" "CVSPayment/" "cuke-handson-rubykaigi2010/" "cloudworks/" "blog_app/" ".localized" ".htaccess" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/lib/symfony/addon/creole/storage/" (19636 28777) "sfCreoleSessionStorage.class.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/ShutsuganCustomize/" (19636 28729) "templates/" "modules/" "lib/" "i18n/" "config/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/lib/CVSPayment/" (19636 28826) "CVSPaymentEnvironment.class.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/modules/payment/actions/" (19636 28724) "actions.class.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/modules/payment/" (19636 28724) "validate/" "templates/" "lib/" "config/" "actions/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/modules/" (19636 28724) "payment/" "order/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/FamiPort/" (19636 28724) "templates/" "modules/" "lib/" "i18n/" "config/" ".svn/" "../" "./")
+
+ ("/Users/asakura/.emacs.d/site-start.d/" (19649 45974) "init_peepopen.elc" "init_peepopen.el" "init_migemo.elc" "init_migemo.el" "init_howm.elc" "init_howm.el" "init_global.elc" "init_global.el" "init_auto-install.elc" "init_auto-install.el" "../" "./")
+
+ ("/Users/asakura/Sites/test/iPhone/ch02/" (19647 8545) "README.txt" "jquery.js" "iphone.php" "iphone.js" "iphone.css" "index.html" "images/" "explorer.css" "desktop.css" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Dropbox/Document/howm/2010/10/" (19648 17157) "2010-10-21-100247.howm" "2010-10-20-120657.howm" "2010-10-19-122958.howm" "2010-10-16-122140.howm" "2010-10-12-152201.howm" "2010-10-10-020020.howm" "2010-10-09-231216.howm" "2010-10-08-163359.howm" "2010-10-08-124454.howm" "2010-10-05-175948.howm" "2010-10-05-173142.howm" "2010-10-04-102856.howm" "2010-10-03-131622.howm" "2010-10-03-005729.howm" "2010-10-02-194346.howm" "2010-10-02-180712.howm" "2010-10-02-160824.howm" "2010-10-02-153452.howm" "2010-10-02-133613.howm" "2010-10-01-121916.howm" "2010-10-01-105903.howm" "2010-10-01-105903 (mochi's conflicted copy 2010-10-12).howm" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/framework/css/" (19622 9628) "exception.css" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/framework/" (19622 9628) "css/" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/kodoguru/images/" (19632 38452) "uwoonn.png" "tubagadetekita.png" "tonaruto.png" "siroimesiga.png" "sakenonomenai.png" "pekochan.png" "otokonoko.png" "nugebaiinda.png" "nikomizousui.png" "naniga.png" "nandakasugoi.png" "mochikaeri.png" "mini_logo.png" "meronaji.png" "mazukunai.png" "mamekan.png" "kouiutypeka.png" "kondonisiyou.png" "kokohanamekojiru.png" "jetnoseide.png" "iyadana.png" "iimameda.png" "ganbarehutosi.png" "gaaaaaaa.png" "damenandayo.png" "chuuburarinn.png" "atukuteatukute.png" "asakura.jpg" "aashiroimeshi.png" "10guuzen.png" "../" "./")
+
+ ("/Users/asakura/Sites/test/iPhone/" (19647 3471) "ch07/" "ch06/" "ch05/" "ch04/" "ch03/" "ch02/" "../" "./")
+
+ ("/Users/asakura/Sites/test/" (19647 2515) "iphone.html" "iphone.css" "iPhone/" "info.php" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/kodoguru/css/" (19647 1986) "style.css" "kodoguru.css" "iphone.css" "btn_right.png" "btn_left.png" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/" (19623 2461) "index_dev.php" "index.php" "check.php" "bundles/" ".htaccess" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/" (19623 2465) "webprofiler/" "kodoguru/" "framework/" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/web/bundles/kodoguru/" (19623 2465) "images/" "css/" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/Resources/web/" (19623 10920) "images/" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/Resources/" (19623 10932) "web/" "views/" "config/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/mobile/actions/" (19573 5705) "actions.class.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/mobile/templates/" (19573 5706) "welcomeSuccess.php" "thanksSuccess.php" "systemerrorSuccess.php" "sessionerrorSuccess.php" "sendMailSuccess.php" "selectUniversitySuccess.php" "selectMiddleExamSuccess.php" "selectFirstExamSuccess.php" "selectFinalExamSuccess.php" "perioderrorSuccess.php" "loginSuccess.php" "inputSerialNumberSuccess.php" "inputRaku2Success.php" "inputPersonSuccess.php" "inputContactSuccess.php" "indexSuccess.php" "guideSuccess.php" "guidePrepareSuccess.php" "guidePrepareMobileSuccess.php" "guidePrepareEmailSuccess.php" "guidePayAtNetBankSuccess.php" "guidePayAtCvsSuccess.php" "guidePayAtCvsMiniStopSuccess.php" "guidePayAtCvsLawsonSuccess.php" "guidePayAtCvsFamilyMartSuccess.php" "guidePayAtCvsDailyYamazakiSuccess.php" "guidePayAtCvsCircleKSuccess.php" "guidePayAtAtmSuccess.php" "guideHowToPaySuccess.php" "guide2Success.php" "guide1Success.php" "failsoftbankSuccess.php" "faildocomoSuccess.php" "failauSuccess.php" "error404Success.php" "divergenceRaku2Success.php" "displayCompleteSuccess.php" "displayAttention2Success.php" "displayAttention1Success.php" "displayApplicationSuccess.php" "confirmDetailSuccess.php" "confirmApplicationSuccess.php" "choosePaymentSuccess.php" "agreePrivacyPolicySuccess.php" "_registration_raku2.php" "_maintenance_information.php" "_mail_setting_link.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/mobile/" (19573 5705) "validate/" "templates/" "lib/" "config/" "actions/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/modules/" (19573 5705) "mobile/" "default/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/apps/shiharai/" (19573 5706) "templates/" "modules/" "lib/" "i18n/" "config/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/web_int/shiharai/" (19644 29836) "sfPrototypePlugin/" "sfLightboxPlugin/" "sf/" "js/" "index.php" "images/" "css/" ".svn/" ".htaccess" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/web_int/" (19573 5681) "yozemi/" "wellnet/" "uf/" "shutsugan/" "shiharai/" "sfPrototypePlugin/" "sfLightboxPlugin/" "sf/" "s/" "robots.txt" "raku2/" "m/" "js/" "index.html" "images/" "favicon.ico" "css/" "chinapay/" "check/" ".svn/" ".htaccess" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/Controller/" (19640 43488) "KodoguruController.php" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/mobile/templates/.svn/" (19636 28950) "tmp/" "text-base/" "props/" "prop-base/" "entries" "all-wcprops" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/mobile/templates/" (19636 28724) "welcomeSuccess.php" "systemerrorSuccess.php" "sessionerrorSuccess.php" "sendMailSuccess.php" "selectSmallAreaSuccess.php" "selectMiddleAreaSuccess.php" "selectExamSuccess.php" "selectExamOptionSuccess.php" "selectExamGradeSuccess.php" "selectBigAreaSuccess.php" "inputRaku2Success.php" "inputPersonalInformationSuccess.php" "indexSuccess.php" "error404Success.php" "divergenceRaku2Success.php" "displayPartnerExamListSuccess.php" "displayPartnerExamDetailSuccess.php" "displayExamDetailSuccess.php" "displayCompleteSuccess.php" "confirmExamSuccess.php" "confirmApplicationSuccess.php" "agreePrivacyPolicySuccess.php" "agreeAttentionSuccess.php" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/mobile/" (19636 28724) "templates/" "actions/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/modules/" (19636 28724) "mobile/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/Certification/" (19636 28724) "templates/" "modules/" "lib/" "config/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPaymentFeature/apps/" (19636 28770) "YozemiManager/" "Yozemi/" "Wellnet/" "WebService/" "UniversityManager/" "Test/" "TeacherManager/" "Teacher/" "SupportCenter/" "ShutsuganStandard/" "ShutsuganHandai/" "ShutsuganCustomizeMyPage/" "ShutsuganCustomizeManager/" "ShutsuganCustomize/" "Shutsugan/" "Shiharai/" "Raku2/" "PdfGenerator/" "Partner/" "Manager/" "KanjiKentei/" "FoundationManager/" "Foundation/" "FamiPort/" "FamimaManager/" "DiscoManager/" "Chinapay/" "Certification/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/apps/" (19573 5730) "YozemiManager/" "Yozemi/" "Wellnet/" "WebService/" "UniversityManager/" "Test/" "TeacherManager/" "Teacher/" "SupportCenter/" "ShutsuganStandard/" "ShutsuganHandai/" "ShutsuganCustomizeMyPage/" "ShutsuganCustomizeManager/" "ShutsuganCustomize/" "Shutsugan/" "Shiharai/" "Raku2/" "PdfGenerator/" "Partner/" "Manager/" "KanjiKentei/" "FoundationManager/" "Foundation/" "FamiPort/" "FamimaManager/" "DiscoManager/" "Chinapay/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Sites/CVSPayment/" (19631 18074) "web_www/" "web_manager/" "web_int/" "web_gateway/" "web/" "test/" "symfony.php" "symfony" "setup/" "plugins/" "log/" "lib/" "hobbit/" "GTAGS" "GSYMS" "GRTAGS" "GPATH" "doc/" "data/" "config/" "cache/" "batch/" "apps/" ".svn/" "../" "./")
+
+ ("/Users/asakura/Dropbox/Document/" (19624 90) "XP祭り2010_しおり.pdf" "WindowsXP.iso" "tutorial/" "timeEdition/" "ticket/" "Tech Fielders セミナー 東京 [Agile Day 3].pdf" "Tasks/" "SQLServer/" "snippet/" "screenshot/" "scansnap/" "rubykaigi-ticket.pdf" "RStaffingSalary/" "Project/" "PortsInstalledAtNewMacBookPro.txt" "PDFLibブロック入力項目一覧 for 大学出願カスタマイズ.pdf" "PDFLibブロック作成手順書：AdobeAcrobat9+PDFLibブロックプラグイン.pdf" "PDFLibブロックプロパティ一覧.pdf" "OldMacBook/" "Numbers/" "Keynote/" "iCompta/" "howm/" "DCD/" "applescript/" ".DS_Store" ".com.apple.timemachine.supported" "../" "./")
+
+ ("/Users/asakura/Dropbox/Document/howm/" (19598 27445) "2010/" "2009/" "0000-00-00-000000.howm" "../" "./")
+
+ ("/Users/asakura/Dropbox/Document/howm/2010/" (19621 50601) "10/" "09/" "08/" "07/" "06/" "05/" "04/" "03/" "02/" "01/" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/KodoguruBundle/" (19622 58369) "Tests/" "Resources/" "KodoguruBundle.php" "Entity/" "Controller/" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/Application/" (19622 58348) "KodoguruBundle/" "HelloBundle/" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/src/" (19623 65206) "vendor/" "Bundle/" "autoload.php" "Application/" ".htaccess" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/sandbox/" (19623 2461) "web/" "src/" "README" "LICENSE" "GTAGS" "GSYMS" "GRTAGS" "GPATH" "bin/" "app/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/asakura/Sites/Symfony2/" (19623 6451) "view.php" "user.php" "test.yml" "test.php" "Symfony2WorkshopSandbox/" "symfony/" "sandbox/" "info.php" "foo.php" ".DS_Store" "../" "./")
+
+ ("/User Guides and Information/Apple Hardware Test Read Me.app/" (19599 35655) "Contents/" "../" "./")
+
+ ("/User Guides and Information/" (19599 35674) "Welcome to Leopard.app/" "MacBook Users Guide.pdf" "ENERGY STAR.pdf" "Apple Hardware Test Read Me.app/" ".localized/" "../" "./")
+
+ ("/Users/asakura/Sites/facebook/" (19640 42338) "php-sdk/" "index.php" "../" "./")
+
+ ("/Users/asakura/Sites/emacs-workshop/" (19576 42036) "timeline.txt" "rubykaigi2010-dbgr-transcripts/" "rubykaigi.el" "rocky-narrow.el" "record.el" "README" "presentations/" "presentation_runner.el" "images/" "ido-find-file-in-tags.el" "code/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/asakura/Sites/emacs-workshop/code/" (19576 40954) "sample.rb" "cgi.rb" "calculator/" "align.rb" "../" "./")
+
+ ("/Users/" (19574 10390) "Shared/" "CVSPayment_manager/" "CVSPayment_int/" "asakura/" ".localized" "../" "./")
+
+ ("/Users/asakura/Dropbox/Document/howm/2010/08/" (19576 41384) "2010-08-28-110929.howm" "2010-08-27-161217.howm" "2010-08-27-130011.howm" "2010-08-26-202032.howm" "2010-08-26-184845.howm" "2010-08-26-175411.howm" "2010-08-26-175235.howm" "2010-08-21-190721.howm" "2010-08-20-102422.howm" "2010-08-18-001422.howm" "2010-08-16-150426.howm" "2010-08-16-123401.howm" "2010-08-15-010823.howm" "2010-08-13-173905.howm" "2010-08-13-105440.howm" "2010-08-03-124608.howm" "2010-08-02-124821.howm" ".#2010-08-28-110929.howm" "#2010-08-28-110929.howm#" "../" "./")
+
+ ("/Users/asakura/Sites/blog_app/app/models/" (19576 39895) "post.rb" "comment.rb" "../" "./")
+
+ ("/Users/asakura/.emacs.d/elisp/" (19576 37924) "zencoding-mode.el" "widen-window.el" "wb-line-number.el" "typing-outputz.el" "shell-command.el" "session.el" "sense-region.el" "ruby_koans/" "redo.el" "popup.elc" "popup.el" "php-mode.el" "php-completion.el" "pdf-preview.el" "migemo.elc" "migemo.el" "markdown-mode.el" "js2-20080616a.el" "howm-config.el" "hiwin.el" "hiwin-mode/" "gtags.elc" "gtags.el" "fuzzy.elc" "fuzzy.el" "flymake-php.el" "e-palette.el" "dsvn.el" "develock.el" "css-mode.el" "bm.el" "auto-save-buffers.el" "auto-complete.elc" "auto-complete.el" "auto-complete-config.elc" "auto-complete-config.el" "anything.el" "anything-config.el" "ac-dict/" "../" "./")
+
+ ("/Users/asakura/.emacs.d/elisp/ruby_koans/" (19576 37903) "src/" "README.rdoc" "Rakefile" "MIT-LICENSE" "koans/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/asakura/.emacs.d/elisp/ruby_koans/koans/" (19576 39499) "triangle.rb" "test_helper.rb" "README.rdoc" "Rakefile" "path_to_enlightenment.rb" "GREED_RULES.txt" "first_test.rb" "example_file.txt" "edgecase.rb" "code_mash.rb" "autotest/" "array_test.rb" "about_true_and_false.rb" "about_triangle_project_2.rb" "about_triangle_project.rb" "about_strings.rb" "about_scoring_project.rb" "about_scope.rb" "about_sandwich_code.rb" "about_regular_expressions.rb" "about_proxy_object_project.rb" "about_open_classes.rb" "about_nil.rb" "about_modules.rb" "about_methods.rb" "about_message_passing.rb" "about_iteration.rb" "about_inheritance.rb" "about_hashes.rb" "about_extra_credit.rb" "about_exceptions.rb" "about_dice_project.rb" "about_control_statements.rb" "about_constants.rb" "about_classes.rb" "about_class_methods.rb" "about_blocks.rb" "about_asserts.rb" "about_arrays.rb" "about_array_assignment.rb" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
